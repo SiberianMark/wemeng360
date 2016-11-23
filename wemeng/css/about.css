@@ -1,0 +1,25 @@
+.m-ab>dt {
+	margin-top:1.19565rem
+}
+.m-ab>dt.mt25 {
+	margin-top:.54348rem
+}
+.m-ab>dd {
+	opacity:.5;
+	font-size:.6087rem;
+	line-height:.86957rem
+}
+.hr-blue-s {
+	width:2.93478rem;
+	height:.1087rem;
+	font-size:.1087rem;
+	margin:.76087rem 0;
+	background-color:#1b94f7
+}
+.hr-white {
+	height:1px;
+	font-size:.1087rem;
+	margin-top:1.52174rem;
+	background-color:#fff;
+	opacity:.5
+}

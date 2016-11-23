@@ -1,0 +1,92 @@
+.bd-sol-v,.sol_head {
+  background-repeat:no-repeat
+}
+.bd-sol-v {
+  background-image:-webkit-gradient(linear,top,bottom,from(#081c37),to(#1974bf));
+  background-image:-webkit-linear-gradient(top,#081c37,#1974bf);
+  background-image:-moz-linear-gradient(top,#081c37,#1974bf);
+  background-image:-ms-linear-gradient(top,#081c37,#1974bf);
+  background-image:-o-linear-gradient(top,#081c37,#1974bf);
+  background-image:linear-gradient(top,#081c37,#1974bf);
+  background-color:#1974bf
+}
+.sol_head {
+  background-image:url(../images/sol_top.png);
+  background-size:100% auto;
+  height:6.04348rem;
+  text-align:center;
+  padding-top:2.6087rem;
+  font-size:.52174rem
+}
+.sol_con {
+  width:81%;
+  margin:1.52174rem auto 2.6087rem
+}
+.sol_con a {
+  position:relative;
+  display:block;
+  height:2.3913rem;
+  color:#fff;
+  font-size:.69565rem;
+  text-decoration:none;
+  margin-bottom:.76087rem;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  -ms-border-radius:5px;
+  -o-border-radius:5px;
+  border-radius:5px;
+  background-image:url(../images/solicon/solicon.png);
+  background-color:#188ef2;
+  background-size:4.91304rem auto;
+  background-repeat:no-repeat;
+  vertical-align:middle
+}
+.sol_con .tt {
+  word-break:keep-all;
+  white-space:nowrap;
+  position:absolute;
+  top:50%;
+  left:62%;
+  -webkit-transform:translate(-50%,-50%);
+  -moz-transform:translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  -o-transform:translate(-50%,-50%);
+  transform:translate(-50%,-50%)
+}
+.icon-angle-right:before {
+  content:''
+}
+.icon-angle-right {
+  display:inline-block;
+  width:.41304rem;
+  height:.71739rem;
+  background-image:url(../images/solicon/angle-right.png);
+  background-size:auto .71739rem;
+  position:absolute;
+  right:.76087rem;
+  top:50%;
+  font-size:.82609rem;
+  margin-top:-.3913rem
+}
+.sol_cs {
+  background-position:0 1.08696rem
+}
+.sol_ct {
+  background-position:0 -1.54348rem
+}
+.sol_ds {
+  background-position:0 -4.32609rem
+}
+.sol_yd {
+  background-position:-.6087rem -7.15217rem
+}
+.sol_gk {
+  background-position:0 -9.43478rem
+}
+.sol_foo {
+  background-image:url(../images/solicon/sol_bot.png);
+  background-size:auto 1.47826rem;
+  height:1.47826rem;
+  position:relative;
+  bottom:0
+}

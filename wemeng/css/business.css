@@ -1,0 +1,131 @@
+.m-bus>dt {
+	font-size:.78261rem;
+	margin-top:.76087rem;
+	margin-bottom:1.41304rem;
+	border-left:.13043rem solid #1b96f8;
+	padding-left:.54348rem;
+	font-weight:700
+}
+.m-bus>dd {
+	padding-bottom:1.19565rem;
+	font-size:.6087rem;
+	line-height:1.04348rem
+}
+.m-bustxt {
+	opacity:.5;
+	padding:0 .6087rem
+}
+.bus-con>h3 {
+	font-size:.6087rem;
+	padding-bottom:.69565rem;
+	margin:1.73913rem .6087rem .54348rem;
+	border-bottom:1px solid #496279
+}
+.bus-con>h3>i {
+	display:inline-block;
+	width:1.08696rem;
+	height:1.08696rem;
+	line-height:1.19565rem;
+	background-color:rgba(255,255,255,.15);
+	text-align:center;
+	-webkit-border-radius:.54348rem;
+	-moz-border-radius:.54348rem;
+	border-radius:.54348rem;
+	color:#fff;
+	font-style:normal;
+	margin-right:.52174rem
+}
+.busicon {
+	text-align:center;
+	margin-bottom:.97826rem
+}
+.busicon>img {
+	width:100%
+}
+.bus-container,.bus-tab {
+	overflow:hidden
+}
+.bus-tab {
+	margin:.32609rem .6087rem .86957rem
+}
+.bus-tab>li {
+	display:block;
+	float:left;
+	width:25%;
+	font-size:.52174rem;
+	padding:.32609rem auto;
+	text-align:center;
+	opacity:.5
+}
+.bus-tab>li.active,.bus-tab>li.swiper-pagination-bullet-active {
+	background-color:#1c95f8;
+	-webkit-border-radius:.54348rem;
+	-moz-border-radius:.54348rem;
+	-ms-border-radius:.54348rem;
+	-o-border-radius:.54348rem;
+	border-radius:.54348rem;
+	opacity:1
+}
+.bus-slide {
+	padding:.86957rem 0;
+	background-color:rgba(255,255,255,.12)
+}
+.swiper-wrapper {
+	position:relative;
+	width:100%;
+	height:100%;
+	z-index:1;
+	display:-webkit-box;
+	display:-moz-box;
+	display:-ms-flexbox;
+	display:-webkit-flex;
+	display:flex;
+	-webkit-transition-property:-webkit-transform;
+	-moz-transition-property:-moz-transform;
+	-o-transition-property:-o-transform;
+	-ms-transition-property:-ms-transform;
+	transition-property:transform;
+	-webkit-box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	box-sizing:content-box
+}
+.swiper-slide {
+	-webkit-flex-shrink:0;
+	-ms-flex:0 0 auto;
+	flex-shrink:0;
+	width:100%;
+	position:relative;
+	background-color:rgba(255,255,255,.07)
+}
+.swiper-slide>span {
+	display:block;
+	text-align:center;
+	padding:.86957rem .6087rem 0
+}
+.sli-in1 {
+	height:14.78261rem
+}
+.sli-in2 {
+	height:8.91304rem
+}
+.sli-in3 {
+	height:15.65217rem
+}
+.sli-in4 {
+	height:11.36957rem
+}
+.sli-in2>span {
+	padding:.86957rem 0 0
+}
+.sli-in1 img {
+	height:13.04348rem
+}
+.sli-in2 img {
+	height:8.47826rem
+}
+.sli-in3 img {
+	height:13.91304rem
+}
+.sli-in4 img {
+	height:9.63043rem
+}
